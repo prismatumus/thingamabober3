@@ -1,0 +1,306 @@
+{"data":[{
+  "Object" : "Red Armchair",
+  "Location" : "Center left, on green rug",
+  "Color" : "Red, Green, Gold",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Red Armchair",
+  "Location" : "Center right, on green rug",
+  "Color" : "Red, Green, Gold, White",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Coffee Table",
+  "Location" : "Center, between armchairs",
+  "Color" : "Dark Wood",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Green Rug",
+  "Location" : "Center floor",
+  "Color" : "Green, Light Green",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Staircase",
+  "Location" : "Left of center, leading up",
+  "Color" : "Gold, Wood",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Large Window (Left)",
+  "Location" : "Left side",
+  "Color" : "Blue, Black",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Large Window (Right)",
+  "Location" : "Right side",
+  "Color" : "Blue, Black",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Bookshelf (Left)",
+  "Location" : "Far left",
+  "Color" : "Dark Wood, Various",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Bookshelf (Right)",
+  "Location" : "Far right",
+  "Color" : "Dark Wood, Various",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Bookshelf (Center Right)",
+  "Location" : "Right of center",
+  "Color" : "Dark Wood, Various",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Gramophone (Left)",
+  "Location" : "Left, near window",
+  "Color" : "Gold, Wood",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Gramophone (Right)",
+  "Location" : "Right, near window",
+  "Color" : "Gold, Wood",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Stained Glass Cabinet",
+  "Location" : "Center, under stairs",
+  "Color" : "Multi-colored, Wood",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Wall Clock",
+  "Location" : "Center wall, right of stairs",
+  "Color" : "Gold, Red",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Picture Frame (Large)",
+  "Location" : "Center wall, left of stairs",
+  "Color" : "Gold, Grey",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Picture Frame (Small)",
+  "Location" : "Center wall, left of stairs",
+  "Color" : "Gold, Grey",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Picture Frame (Medium)",
+  "Location" : "Center wall, top left of stairs",
+  "Color" : "Gold, Grey",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Desk",
+  "Location" : "Right of center",
+  "Color" : "Dark Wood",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Desk Chair",
+  "Location" : "Right of center, at desk",
+  "Color" : "Wood",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Small Round Table",
+  "Location" : "Right side, near bookshelf",
+  "Color" : "Gold, Wood",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Music Stand",
+  "Location" : "Right side, near desk",
+  "Color" : "Gold",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Glowing Flower Lamp (Left)",
+  "Location" : "Left window area",
+  "Color" : "Yellow, Orange",
+  "Quantity" : "3"
+},
+{
+  "Object" : "Glowing Flower Lamp (Right)",
+  "Location" : "Right window area",
+  "Color" : "Yellow, Orange",
+  "Quantity" : "3"
+},
+{
+  "Object" : "Lantern (Floor, Left)",
+  "Location" : "Left floor area",
+  "Color" : "Orange, Black",
+  "Quantity" : "2"
+},
+{
+  "Object" : "Lantern (Floor, Right)",
+  "Location" : "Right floor area",
+  "Color" : "Orange, Black",
+  "Quantity" : "2"
+},
+{
+  "Object" : "Pillow (on left chair)",
+  "Location" : "On left armchair",
+  "Color" : "Green, Red, Gold",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Pillow (on right chair)",
+  "Location" : "On right armchair",
+  "Color" : "Green, Red, Gold",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Blanket",
+  "Location" : "Draped on right armchair",
+  "Color" : "White",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Teapot",
+  "Location" : "On coffee table",
+  "Color" : "Black",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Teacup",
+  "Location" : "On coffee table",
+  "Color" : "White, Gold",
+  "Quantity" : "2"
+},
+{
+  "Object" : "Book (on table)",
+  "Location" : "On coffee table",
+  "Color" : "White",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Stack of Books (Left)",
+  "Location" : "Left floor",
+  "Color" : "Various",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Stack of Books (Right)",
+  "Location" : "Right floor",
+  "Color" : "Various",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Vines/Plants",
+  "Location" : "Ceiling and walls",
+  "Color" : "Dark Green, Blue glow",
+  "Quantity" : "Multiple"
+},
+{
+  "Object" : "Glowing Blue Dots",
+  "Location" : "Ceiling and walls",
+  "Color" : "Light Blue",
+  "Quantity" : "Multiple"
+},
+{
+  "Object" : "Suitcase (on bookshelf)",
+  "Location" : "Top of center right bookshelf",
+  "Color" : "Red, Blue, Green",
+  "Quantity" : "3"
+},
+{
+  "Object" : "Small Cabinet",
+  "Location" : "Under stairs, right of stained glass",
+  "Color" : "Wood",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Sewing Machine",
+  "Location" : "On desk",
+  "Color" : "Black",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Glass Bottle/Jar",
+  "Location" : "On desk and shelves",
+  "Color" : "Clear, Various",
+  "Quantity" : "Multiple"
+},
+{
+  "Object" : "Paper Rolls",
+  "Location" : "Near desk",
+  "Color" : "White",
+  "Quantity" : "Multiple"
+},
+{
+  "Object" : "Curtain/Fabric (Left)",
+  "Location" : "Near left gramophone",
+  "Color" : "Green, Red, Gold",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Curtain/Fabric (Right)",
+  "Location" : "Near right gramophone",
+  "Color" : "Green, Red, Gold",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Wall Pattern",
+  "Location" : "Center wall",
+  "Color" : "Red, Dark Red",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Floor",
+  "Location" : "Entire bottom area",
+  "Color" : "Dark Wood",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Ceiling",
+  "Location" : "Entire top area",
+  "Color" : "Dark Brown",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Stair Railing",
+  "Location" : "Along staircase",
+  "Color" : "Gold",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Window Pane (Left)",
+  "Location" : "Left window",
+  "Color" : "Blue",
+  "Quantity" : "Multiple"
+},
+{
+  "Object" : "Window Pane (Right)",
+  "Location" : "Right window",
+  "Color" : "Blue",
+  "Quantity" : "Multiple"
+},
+{
+  "Object" : "Small Box",
+  "Location" : "Near armchairs",
+  "Color" : "Green, Red",
+  "Quantity" : "2"
+},
+{
+  "Object" : "Candle Holder",
+  "Location" : "On desk",
+  "Color" : "Gold",
+  "Quantity" : "1"
+},
+{
+  "Object" : "Flask/Vial",
+  "Location" : "On small round table",
+  "Color" : "Green, Clear",
+  "Quantity" : "1"
+}]}
